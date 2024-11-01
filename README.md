@@ -4,6 +4,7 @@
 * 系級：科技系116
 # 作業連結
 ## HW1
+https://drive.google.com/file/d/1Ukt3MPjchUeXh3OL3WQTxdfNSLjZI-ws/view?usp=sharing
 ## HW2
 https://drive.google.com/file/d/1rjOL-WHafUxt0jXuBu3LgKt0MndmtjqO/view?usp=drive_link
 ## HW3

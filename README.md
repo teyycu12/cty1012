@@ -9,3 +9,7 @@ https://drive.google.com/file/d/1Ukt3MPjchUeXh3OL3WQTxdfNSLjZI-ws/view?usp=shari
 https://drive.google.com/file/d/1rjOL-WHafUxt0jXuBu3LgKt0MndmtjqO/view?usp=drive_link
 ## HW3
 https://drive.google.com/file/d/1y2r_MaWSsbFcqam1wdn-qbK0TzRftU3Z/view?usp=sharing
+#期末專題
+* 簡報 
+* 實作影片 https://youtu.be/6gkQgHngGrA?si=6Kll7C6mIlHvw4g4
+* 程式碼https://github.com/gwen1008/Situation-puzzle
